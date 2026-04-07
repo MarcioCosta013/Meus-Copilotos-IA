@@ -11,6 +11,9 @@ Nesse repositório estou guardando os meus prompts para Copitolo de IA especific
 
 Criei 5 tipos de Modos de Interação: o **Agent, Ask, Edit, Plan e o Study**. E Dentro desses Modos criei um prompt diferente para cada stack que eu for usar. 
 
+Usei como base os prompts das aulas do [Felipe Silva Aguiar
+](https://github.com/felipeAguiarCode) que se encontra nesse reposotório da DIO ( Digital Innovation One ) [aqui](https://github.com/digitalinnovationone/my-first-copilot).
+
 ## Indice:
 - [Descrição de cada Modo](#descrição-de-cada-modo)
 - Agent:
@@ -43,6 +46,9 @@ Criei 5 tipos de Modos de Interação: o **Agent, Ask, Edit, Plan e o Study**. E
     - Angular
     - React
     - Docker
+
+
+
 
 ## Descrição de cada Modo: 
 
