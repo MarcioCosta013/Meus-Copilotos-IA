@@ -9,4 +9,54 @@
 
 Nesse repositório estou guardando os meus prompts para Copitolo de IA especifica para minhas diferentes areas de atuação, para fazer melhor uso dos LLMs. O Propósito desse repositório é ser uma fonte onde eu possa armazenar meus prompts e usar para consulta rápida e remota, e também mostrar como eu uso a Inteligência Artificial de como uma Ferramenta de Auxilio e com responsábilidade, sabendo que a função dela é auxiliar e não fazer todo o trabalho sozinha e sem validação.
 
-Criei 5 tipos de Modos de Interação: o Agent, Ask, Edit, Plan e o Study. E Dentro desses Modos criei um prompt diferente para cada stack que eu for usar.
+Criei 5 tipos de Modos de Interação: o **Agent, Ask, Edit, Plan e o Study**. E Dentro desses Modos criei um prompt diferente para cada stack que eu for usar. 
+
+## Indice:
+- [Descrição de cada Modo](#descrição-de-cada-modo)
+- Agent:
+    - Java
+    - C#(.NET)
+    - Angular
+    - React
+    - Docker
+- Ask:
+    - Java
+    - C#(.NET)
+    - - Angular
+    - React
+    - Docker
+- Edit:
+    - Java
+    - C#(.NET)
+    - Angular
+    - React
+    - Docker
+- Plan:
+    - Java
+    - C#(.NET)
+    - Angular
+    - React
+    - Docker
+- Study:
+    - Java
+    - C#(.NET)
+    - Angular
+    - React
+    - Docker
+
+## Descrição de cada Modo: 
+
+### Agent
+O Agent é o modo mais “autônomo”. Ele pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como se fosse um dev júnior trabalhando com você.
+
+### Ask
+O modo Ask é para fazer perguntas e entender coisas, sem alterar seu código. Você pode perguntar sobre um arquivo específico, um erro, uma função, uma stack trace ou até conceitos gerais.
+
+### Edit
+O modo Edit serve para alterar código existente. Você seleciona um trecho (ou um arquivo inteiro), descreve o que quer mudar, e o Copiloto aplica a modificação diretamente.
+
+### Plan
+Quando você pede algo mais complexo, o Copiloto pode entrar em um modo de planejamento, onde ele pensa e descreve os passos antes de sair codando.
+
+### Study
+O modo Study é focado em aprendizado ativo, não só em chegar à resposta ou ao código final.
