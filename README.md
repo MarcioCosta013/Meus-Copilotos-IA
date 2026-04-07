@@ -1,4 +1,4 @@
-# Meus Copilotos para IA
+# Meus Prompts de Copilotos para IA
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
@@ -16,32 +16,32 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 
 ## Indice:
 - [Descrição de cada Modo](#descrição-de-cada-modo)
-- Agent:
-    - Java
+- [Agent](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Agent):
+    - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/Java.md)
     - C#(.NET)
     - Angular
     - React
     - Docker
-- Ask:
-    - Java
+- [Ask](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Ask):
+    - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/Java.md)
     - C#(.NET)
     - - Angular
     - React
     - Docker
-- Edit:
-    - Java
+- [Edit](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Edit):
+    - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/Java.md)
     - C#(.NET)
     - Angular
     - React
     - Docker
-- Plan:
-    - Java
+- [Plan](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Plan):
+    - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/Java.md)
     - C#(.NET)
     - Angular
     - React
     - Docker
-- Study:
-    - Java
+- [Study](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Study):
+    - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/Java.md)
     - C#(.NET)
     - Angular
     - React
