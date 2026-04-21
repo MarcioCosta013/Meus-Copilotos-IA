@@ -6,6 +6,17 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 Nesse repositório estou guardando os meus prompts para Copitolo de IA especifica para minhas diferentes areas de atuação, para fazer melhor uso dos LLMs. O Propósito desse repositório é ser uma fonte onde eu possa armazenar meus prompts e usar para consulta rápida e remota, e também mostrar como eu uso a Inteligência Artificial de como uma Ferramenta de Auxilio e com responsábilidade, sabendo que a função dela é auxiliar e não fazer todo o trabalho sozinha e sem validação.
 
@@ -16,53 +27,73 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 
 ## Indice:
 - [Descrição de cada Modo](#descrição-de-cada-modo)
-- [Agent](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Agent):
+- [👷🏿‍♂️ Agent ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Agent):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/CSharp.md)
     - Angular
     - React
-    - Docker
-- [Ask](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Ask):
+    - TypeScript
+    - JavaScript
+    - Go
+    - HTML + CSS
+    
+- [❓ Ask ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Ask):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/CSharp.md)
     - Angular
     - React
-    - Docker
-- [Edit](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Edit):
+    - TypeScript
+    - JavaScript
+    - Go
+    - HTML + CSS
+    
+- [⛏ Edit ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Edit):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/CSharp.md)
     - Angular
     - React
-    - Docker
-- [Plan](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Plan):
+    - TypeScript
+    - JavaScript
+    - Go
+    - HTML + CSS
+    
+- [📈 Plan ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Plan):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/CSharp.md)
     - Angular
     - React
-    - Docker
-- [Study](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Study):
+    - TypeScript
+    - JavaScript
+    - Go
+    - HTML + CSS
+    
+- [📚 Study ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Study):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/CSharp.md)
     - Angular
     - React
-    - Docker
+    - TypeScript
+    - JavaScript
+    - Go
+    - HTML + CSS
+      
 
 
 
 
 ## Descrição de cada Modo: 
 
-### Agent
-O Agent é o modo mais “autônomo”. Ele pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como se fosse um dev júnior trabalhando com você.
+### 👷🏿‍♂️ Agent
+- ##### O Agent é o modo mais “autônomo”. Ele pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como se fosse um dev júnior trabalhando com você.
 
-### Ask
-O modo Ask é para fazer perguntas e entender coisas, sem alterar seu código. Você pode perguntar sobre um arquivo específico, um erro, uma função, uma stack trace ou até conceitos gerais.
+### ❓ Ask
+- ##### O modo Ask é para fazer perguntas e entender coisas, sem alterar seu código. Você pode perguntar sobre um arquivo específico, um erro, uma função, uma stack trace ou até conceitos gerais.
 
-### Edit
-O modo Edit serve para alterar código existente. Você seleciona um trecho (ou um arquivo inteiro), descreve o que quer mudar, e o Copiloto aplica a modificação diretamente.
+### ⛏ Edit
+- ##### O modo Edit serve para alterar código existente. Você seleciona um trecho (ou um arquivo inteiro), descreve o que quer mudar, e o Copiloto aplica a modificação diretamente.
 
-### Plan
-Quando você pede algo mais complexo, o Copiloto pode entrar em um modo de planejamento, onde ele pensa e descreve os passos antes de sair codando.
+### 📈 Plan
+- ##### Quando você pede algo mais complexo, o Copiloto pode entrar em um modo de planejamento, onde ele pensa e descreve os passos antes de sair codando.
 
-### Study
-O modo Study é focado em aprendizado ativo, não só em chegar à resposta ou ao código final.
+### 📚 Study
+- ##### O modo Study é focado em aprendizado ativo, não só em chegar à resposta ou ao código final.
