@@ -30,7 +30,7 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 - [👷🏿‍♂️ Agent ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Agent):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/CSharp.md)
-    - Angular
+    - [Angular](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Agent/Angular.md)
     - React
     - TypeScript
     - JavaScript
