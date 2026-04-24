@@ -40,7 +40,7 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 - [❓ Ask ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Ask):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/CSharp.md)
-    - Angular
+    - [Angular](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Ask/Angular.md)
     - React
     - TypeScript
     - JavaScript
@@ -50,7 +50,7 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 - [⛏ Edit ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Edit):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/CSharp.md)
-    - Angular
+    - [Angular](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Edit/Angular.md)
     - React
     - TypeScript
     - JavaScript
@@ -60,7 +60,7 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 - [📈 Plan ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Plan):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/CSharp.md)
-    - Angular
+    - [Angular](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Plan/Angular.md)
     - React
     - TypeScript
     - JavaScript
@@ -70,7 +70,7 @@ Usei como base os prompts das aulas do [Felipe Silva Aguiar
 - [📚 Study ](https://github.com/MarcioCosta013/Meus-Copilotos-IA/tree/main/Study):
     - [Java](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/Java.md)
     - [C#(.NET)](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/CSharp.md)
-    - Angular
+    - [Angular](https://github.com/MarcioCosta013/Meus-Copilotos-IA/blob/main/Study/Angular.md)
     - React
     - TypeScript
     - JavaScript
